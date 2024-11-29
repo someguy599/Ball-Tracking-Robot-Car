@@ -98,7 +98,7 @@ try:
                 object_x = center_x
                 object_y = center_y
 
-        print(f"Final( 0-140  140-180  180-320): ({object_x},{object_y}), Area: {object_area}")
+        print(f"Final(0-140  140-180  180-320): ({object_x},{object_y}), Area: {object_area}")
 
         if object_area <= 0:
             print("No Object Found")
