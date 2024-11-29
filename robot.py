@@ -3,7 +3,6 @@ import time
 from picamera2 import Picamera2
 import cv2
 import numpy as np
-from gpiozero import DistanceSensor
 from gpiozero import InputDevice
 
 rightreverse = 20
