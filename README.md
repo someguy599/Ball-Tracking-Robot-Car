@@ -1,12 +1,12 @@
 # Ball Tracking Robot Car
 ## Bill of Materials:
-Raspberry Pi and breadboard
-3V-6V DC 1:120 Gear Motor TT Motor (2x)
-L298n Dual H-Bridge Motor Driver
-Ultrasonic Distance Sensor - 5V (HC-SR04)
-RPI 8MP Camera Board
-Batteries
-Wires
+- Raspberry Pi and breadboard
+- 3V-6V DC 1:120 Gear Motor TT Motor (2x)
+- L298n Dual H-Bridge Motor Driver
+- 3Pcs Infrared Obstacle Avoidance Sensor (2x)
+- RPI 8MP Camera Board
+- Batteries
+- Wires
 ## Goal
 The overall goal of this project was to develop a car that would be able to follow a ball and stop whenever it got close enough. The robot would use a camera attached to its front to constantly take images. AFter determining the location of the ball in each one of these images, the robot would decide whether to left, right, or forward depending on the location of the ball. Finally, if the robot ever detected an obstacle in the way using the sensors, it would stop.
 ## How I Did This
