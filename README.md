@@ -16,4 +16,8 @@ Next, I attached the infrared sensors to the car. The Infrared Obstacle Avoidanc
 
 Finally, I connected the camera to the raspberry pi. The camera was going to be able to take photos that would be used by the program to detect where the ball is. 
 
-
+## Images
+![image alt](https://github.com/someguy599/Ball-Tracking-Robot-Car/blob/main/20241126_174415.jpg?raw=true)
+![image alt](https://github.com/someguy599/Ball-Tracking-Robot-Car/blob/main/20241126_174441.jpg?raw=true)
+![image alt](https://github.com/someguy599/Ball-Tracking-Robot-Car/blob/main/20241126_174432.jpg?raw=true)
+![image_alt](https://github.com/someguy599/Ball-Tracking-Robot-Car/blob/main/20241126_174444.jpg?raw=true)
